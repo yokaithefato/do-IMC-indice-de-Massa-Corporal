@@ -15,7 +15,7 @@ public class ImcDoSenaco {
   
   double A = a*a;
   
-  System.out.println("informe o peso desse cabaco");
+  System.out.println("informe o peso");
   double P = sc.nextDouble();
   
   double IMC = P/A;
